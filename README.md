@@ -18,6 +18,8 @@ Leonardo.AI + Canva → geração de imagens ilustrativas + design das capas dos
 
 CapCut → edição e montagem final dos áudios e capas
 
+Pixabay → música livre de direitos autorais, faixa escolhida "Cutie Japan Lofi" por [FASSounds](https://pixabay.com/pt/users/fassounds-3433550/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=402355). 
+
 📚 Contexto do projeto
 
 Este projeto foi desenvolvido durante o curso ministrado por [Felipe Aguiar](https://github.com/felipeAguiarCode) em parceria com a [DIO](https://www.dio.me/), com foco em aprimorar habilidades práticas no uso de ferramentas de IA aplicadas à criação de conteúdo digital.
