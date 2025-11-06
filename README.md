@@ -35,3 +35,23 @@ Este projeto foi desenvolvido durante o curso ministrado por [Felipe Aguiar](htt
 📢 Resultados
 
 O podcast resultante demonstra como a Inteligência Artificial pode ser utilizada de forma integrada para gerar roteiros, vozes, imagens e vídeos de forma eficiente e criativa.
+
+🤝 Contribuições
+
+Este repositório foi criado com fins educacionais e experimentais, como parte de um projeto de aprendizado sobre ferramentas de Inteligência Artificial.
+
+Atualmente, o repositório está aberto apenas para visualização — ou seja:
+
+✅ Você pode explorar, clonar e estudar o código e os recursos.
+
+🚫 Commits diretos não são permitidos.
+
+💡 Caso queira sugerir melhorias, você pode abrir uma issue ou enviar um pull request para revisão.
+
+
+Lembre-se! 
+
+📝 Deve sempre dar o devido crédito ao autor original.
+
+🚫 Não é permitido o uso comercial do material ou de suas partes sem autorização prévia.
+
