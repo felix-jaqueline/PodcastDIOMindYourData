@@ -1,42 +1,56 @@
 🎙️ Mind Your Data – Podcast com IA
 
-Projeto de Podcast criado durante o curso da DIO para explorar e aprender o uso de diferentes ferramentas de IA. Envolve geração de roteiros, vozes sintéticas e design visual, unindo criatividade, tecnologia e aprendizado prático.
-
-Este projeto foi desenvolvido com o objetivo de explorar e aprender o uso de diferentes ferramentas de Inteligência Artificial aplicadas à criação de conteúdo multimídia. O resultado é um podcast totalmente produzido com IA — do roteiro à edição final.
+  Projeto de Podcast criado durante o curso da DIO para explorar e aprender o uso de diferentes ferramentas de IA. Envolve geração de roteiros, vozes sintéticas e design visual, unindo criatividade, tecnologia e aprendizado prático.
+  
+  Este projeto foi desenvolvido com o objetivo de explorar e aprender o uso de diferentes ferramentas de Inteligência Artificial aplicadas à criação de conteúdo multimídia. O resultado é um podcast totalmente produzido com IA — do roteiro à edição final.
 
 🧠 Sobre o Podcast:
 
-A proposta do Podcast Mind Your Data une Neurociência e Ciência de Dados em episódios curtos e informativos, criados de forma automatizada para demonstrar o potencial criativo e técnico das ferramentas de IA.
+  A proposta do Podcast Mind Your Data une Neurociência e Ciência de Dados em episódios curtos e informativos, criados de forma automatizada para demonstrar o potencial criativo e técnico das ferramentas de IA.
 
 🛠️ Tecnologias utilizadas
 
-ChatGPT → geração e edição de roteiros
-
-ElevenLabs → criação de voz sintética e narração
-
-Leonardo.AI + Canva → geração de imagens ilustrativas + design das capas dos episódios
-
-CapCut → edição e montagem final dos áudios e capas
-
-Pixabay → música livre de direitos autorais, faixa escolhida "Cutie Japan Lofi" por [FASSounds](https://pixabay.com/pt/users/fassounds-3433550/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=402355). 
+  ChatGPT → geração e edição de roteiros
+  
+  ElevenLabs → criação de voz sintética e narração
+  
+  Leonardo.AI + Canva → geração de imagens ilustrativas + design das capas dos episódios
+  
+  CapCut → edição e montagem final dos áudios e capas
+  
+  Pixabay → música livre de direitos autorais, faixa escolhida "Cutie Japan Lofi" por [FASSounds](https://pixabay.com/pt/users/fassounds-3433550/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=402355). 
 
 📚 Contexto do projeto
 
-Este projeto foi desenvolvido durante o curso ministrado por [Felipe Aguiar](https://github.com/felipeAguiarCode) em parceria com a [DIO](https://www.dio.me/), com foco em aprimorar habilidades práticas no uso de ferramentas de IA aplicadas à criação de conteúdo digital.
+  Este projeto foi desenvolvido durante o curso ministrado por [Felipe Aguiar](https://github.com/felipeAguiarCode) em parceria com a [DIO](https://www.dio.me/), com foco em aprimorar habilidades práticas no uso de ferramentas de IA aplicadas à criação de conteúdo digital.
 
-🚀 Objetivos de aprendizado
+✔️ Objetivos de aprendizado
 
-- Experimentar fluxos de trabalho com múltiplas IAs
-
-- Automatizar etapas de produção de conteúdo
-
-- Integrar ferramentas visuais e de áudio
-
-- Produzir um projeto criativo com propósito educacional
+  - Experimentar fluxos de trabalho com múltiplas IAs
+  
+  - Automatizar etapas de produção de conteúdo
+  
+  - Integrar ferramentas visuais e de áudio
+  
+  - Produzir um projeto criativo com propósito educacional
 
 📢 Resultados
 
-O podcast resultante demonstra como a Inteligência Artificial pode ser utilizada de forma integrada para gerar roteiros, vozes, imagens e vídeos de forma eficiente e criativa.
+  O podcast resultante demonstra como a Inteligência Artificial pode ser utilizada de forma integrada para gerar roteiros, vozes, imagens e vídeos de forma eficiente e criativa.
+
+🚀 Possíveis Melhorias
+
+  O projeto ainda pode ser aprimorado em diversos aspectos técnicos e criativos. Algumas melhorias planejadas incluem:
+  
+  - Edição de áudio: aperfeiçoar a transição entre faixas, equalização e mixagem, tornando a experiência sonora mais fluida e natural.
+  
+  - Engenharia de prompt: evoluir as técnicas de criação de prompts para obter imagens mais consistentes e contextualizadas no Leonardo.AI e roteiros mais refinados e naturais com o ChatGPT.
+  
+  - Design visual: experimentar diferentes estilos de capa e identidade visual para fortalecer a estética do podcast.
+  
+  - Automação: integrar ferramentas para otimizar o fluxo de produção, da geração de conteúdo à publicação final.
+  
+  Essas melhorias visam aumentar a qualidade técnica e criativa do projeto, reforçando o aprendizado contínuo sobre o uso de IA na produção de conteúdo multimídia.
 
 🤝 Contribuições
 
@@ -53,7 +67,7 @@ Atualmente, o repositório está aberto apenas para visualização — ou seja:
 
 Lembre-se! 
 
-📝 Deve sempre dar o devido crédito ao autor original.
+📝 Sempre dar o devido crédito à autora original.
 
 🚫 Não é permitido o uso comercial do material ou de suas partes sem autorização prévia.
 
